@@ -11,3 +11,5 @@ Debug
 x64
 exam*
 stream
+/.vscode
+*.exe
